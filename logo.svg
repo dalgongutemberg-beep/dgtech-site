@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" role="img" aria-label="DGTECH - Soluções em Tecnologia">
+  <!-- Emblema completo: formas coloridas facetadas atrás de um hexágono azul-marinho -->
+  <g opacity=".92">
+    <path d="M40 150 Q50 95 120 80 L200 60 L190 230 L60 250 Q25 220 40 150Z" fill="#3bb54a"/>
+    <path d="M200 40 Q270 20 320 60 Q350 90 345 150 L350 290 Q340 320 300 315 L220 230Z" fill="#2a9fd6"/>
+    <path d="M45 240 L190 210 L210 330 L120 330 Q70 325 55 300Z" fill="#e5392f"/>
+    <path d="M200 220 L320 230 L320 300 Q315 335 270 340 L200 340Z" fill="#f5b52e"/>
+  </g>
+  <!-- Facetas de luz -->
+  <g fill="#fff" opacity=".12">
+    <path d="M120 80 L200 60 L150 150Z"/>
+    <path d="M320 60 L345 150 L280 120Z"/>
+    <path d="M55 300 L120 330 L130 270Z"/>
+    <path d="M320 230 L320 300 L270 290Z"/>
+  </g>
+  <path d="M200 62 L320 125 L325 255 L205 320 L80 258 L78 125Z" fill="#14213d" stroke="#0e1a33" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M200 62 L320 125 L200 160Z" fill="#fff" opacity=".04"/>
+  <path d="M78 125 L200 160 L80 258Z" fill="#000" opacity=".08"/>
+
+  <!-- DGTECH com nós de circuito no D e no G -->
+  <text x="200" y="210" text-anchor="middle" font-family="'Montserrat','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="700" fill="#fff" letter-spacing="1">DGTECH</text>
+  <g fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round">
+    <path d="M124 170 h-10"/>
+    <circle cx="109" cy="170" r="5"/>
+  </g>
+  <text x="200" y="245" text-anchor="middle" font-family="'Montserrat','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="500" fill="#e2e8f0" letter-spacing="1.2">SOLUÇÕES EM TECNOLOGIA</text>
+</svg>

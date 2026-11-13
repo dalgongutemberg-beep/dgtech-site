@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DGTech">
+  <!-- Ícone compacto (favicon / cabeçalho) -->
+  <path d="M6 24 Q8 12 20 10 L32 6 L30 36 L8 40 Q3 34 6 24Z" fill="#3bb54a"/>
+  <path d="M32 4 Q46 2 54 10 Q60 16 58 26 L58 48 Q56 54 50 53 L34 36Z" fill="#2a9fd6"/>
+  <path d="M7 38 L30 33 L33 58 L18 58 Q10 56 8 50Z" fill="#e5392f"/>
+  <path d="M32 35 L52 37 L52 50 Q51 58 44 59 L32 59Z" fill="#f5b52e"/>
+  <path d="M32 9 L52 20 L53 43 L33 55 L12 44 L12 20Z" fill="#14213d"/>
+  <text x="32.5" y="38" text-anchor="middle" font-family="'Montserrat','Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">DG</text>
+</svg>
